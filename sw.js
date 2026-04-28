@@ -1,6 +1,6 @@
 // Birl PWA — Service Worker
 // Atualiza a versão do cache sempre que o app for modificado
-const CACHE_NAME = "birl-v2";
+const CACHE_NAME = "birl-v3";
 const ASSETS = [
   "./index.html",
   "./manifest.json"
